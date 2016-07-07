@@ -27,7 +27,7 @@ td, p {font-family: Verdana;font-size:12px;color: #000000;text-decoration: none;
 
 hr {color: #DADADA;}
 
-html, body{font-family: Verdana;font-size:12px; background:#FFFFFF url("htttp://wwww.export.gov/build/fragments/fl_eg2_stylesheets/eg2bkg.jpg") no-repeat top center;margin:0;padding:0; text-align:center; }
+html, body{font-family: Verdana;font-size:12px; background:#FFFFFF url("http://www.export.gov/build/fragments/fragments/fl_eg2_stylesheets/eg2bkg.jpg") no-repeat top center;margin:0;padding:0; text-align:center; }
 
 
 #container {width: 994px;}
@@ -47,7 +47,7 @@ img {border: none;}
       
 /* ==== Lists in Center ==== */
 .centermiddlelinks
-{list-style-image: url("htttp://wwww.export.gov/build/fragments/fl_eg2_stylesheets/000582.gif");list-style-type: circle}
+{list-style-image: url("http://www.export.gov/build/fragments/fragments/fl_eg2_stylesheets/000582.gif");list-style-type: circle}
 .centermiddlelinks p {display:inline;}
 
 /* ==== Start of Page Frame ==== */ 
@@ -110,7 +110,7 @@ img {border: none;}
 #banner .langbtn{margin:1px 0 0 330px;width:242px;height:38px;float:left;position:relative;display:inline;}
 #banner .langbtnsep{border-bottom:1px solid #8bafc8;height:33px;padding-top:4px;text-align:center;vertical-align:middle;}
 #banner .egaccount{margin:1px 0 0 332px;float:left;position:relative;display:inline;}
-#banner .searchbox {height:16px;width:150px;background:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/bg_mapglass.jpg'); background-color: #FFFFFF;background-position: 0% 50%;background-repeat: no-repeat;border: 1px solid #CCC;color: #999;font-family: Verdana;font-size: 12px;padding: 3px 2px 3px 18px;}
+#banner .searchbox {height:16px;width:150px;background:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/bg_mapglass.jpg'); background-color: #FFFFFF;background-position: 0% 50%;background-repeat: no-repeat;border: 1px solid #CCC;color: #999;font-family: Verdana;font-size: 12px;padding: 3px 2px 3px 18px;}
 
 #banner .searchbox2 {margin:3px 0 0 332px;float:left; position:relative;display:inline;}
 #banner .advsrch{margin:1px 0 0 64px;float:left;position:relative;display:inline;}
@@ -118,7 +118,7 @@ img {border: none;}
 
 /*new top nav menu links */
 #top-nav-wrapper{margin-top:35px;}
-ul#topnav{background:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav2.jpg') no-repeat;width:971px;height:49px;margin:0px 0px 0 11px;padding:0;float:left;z-index:50;}
+ul#topnav{background:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav2.jpg') no-repeat;width:971px;height:49px;margin:0px 0px 0 11px;padding:0;float:left;z-index:50;}
 ul#topnav li{margin-top:0;}
 #topnav li.first-level span{position:absolute;left:-9999px;z-index:50;}
 #topnav li,#topnav li.first-level a{min-height:35px;display:block;}
@@ -130,25 +130,25 @@ li#nav-locations               a.first-level{width:169px;}
 li#nav-faq           a.first-level{width:109px;}
 li#nav-blog              a.first-level{width: 122px;}
 li#nav-social              a.first-level{width: 155px;}
-li#nav-home:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav.jpg) -0px -35px no-repeat;}
-li#nav-opportunities:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav.jpg) -56px -35px no-repeat;}
-li#nav-solutions:hover  a.first-level{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav.jpg) -254px -35px no-repeat;}
-li#nav-locations:hover         a.first-level{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav.jpg) -416px -35px no-repeat;}
-li#nav-faq:hover      a.first-level{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav.jpg)  -585px -35px no-repeat;}
-li#nav-blog:hover         a.first-level{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav.jpg) -694px -35px no-repeat;}
-li#nav-social:hover         a.first-level{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/topnav.jpg) -816px -35px no-repeat;}
+li#nav-home:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -0px -35px no-repeat;}
+li#nav-opportunities:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -56px -35px no-repeat;}
+li#nav-solutions:hover  a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -254px -35px no-repeat;}
+li#nav-locations:hover         a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -416px -35px no-repeat;}
+li#nav-faq:hover      a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg)  -585px -35px no-repeat;}
+li#nav-blog:hover         a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -694px -35px no-repeat;}
+li#nav-social:hover         a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -816px -35px no-repeat;}
 ul#topnav li.first-level ul{display:block;margin:0 0 12px 7px;float:left;padding:14px 0 14px 0;}
 ul#topnav li.first-level ul{width:220px;}
 ul#topnav li.first-level ul li{margin:7px 0 7px 0;padding:0 0px 0 0;width:350px;min-height:12px;float:left;}
 ul#topnav li.first-level ul li a{color:#003399;font:bold 12px verdana;text-decoration:none;min-height:12px;}
 ul#topnav li.first-level ul li a:hover{text-decoration:underline;}
-ul#topnav li div.topnav-dd-outer{position:absolute;z-index:500;left:-999em;background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/bg-nav-left-edge-trans.png) no-repeat left bottom;margin-left:-9px;}
+ul#topnav li div.topnav-dd-outer{position:absolute;z-index:500;left:-999em;background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/bg-nav-left-edge-trans.png) no-repeat left bottom;margin-left:-9px;}
 ul#topnav li#nav-issues div.topnav-dd-outer{width:504px;}
 ul#topnav li#nav-issues ul li{}
 ul#issues-landing-entry-list{float:left;width:142px;}
 #issues-landing-links ul#issues-landing-entry-list li{width:139px;padding:3px;}
 ul#topnav li:hover div.topnav-dd-outer{left:auto;}
-div.topnav-dd-inner{background:url(htttp://wwww.export.gov/build/fl_eg2_stylesheets/header/bg-nav-right-edge-trans2.png) no-repeat right bottom;margin-left:17px;margin-bottom:-5px;padding:0 0 10px 0;}
+div.topnav-dd-inner{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/bg-nav-right-edge-trans2.png) no-repeat right bottom;margin-left:17px;margin-bottom:-5px;padding:0 0 10px 0;}
 .clear{clear:both;}
 .clearfix:after{clear:both;content:".";display:block;height:0;line-height:0;visibility:hidden;}
 .clearfix{display:inline-block;}
@@ -168,7 +168,7 @@ html[xmlns].clearfix{display:block;}
 .sideshead {color: #000000;font-family: Verdana;font-size: 1.083em;font-weight: bold;padding: 4px 3px 4px 4px;}
 .sideshead p{color: #000000;font-family: Verdana;font-size: 1.083em;font-weight: bold;padding: 4px 3px 4px 5px;margin:0px;line-height:6px;}
 .ls{width:219px;padding-top: 0px;padding-bottom:-2px;margin:5px 0px 10px 0px;}
-ul.sides{line-height:18px;display:block;margin:1px 1px 1px 22px;padding-left:0px;list-style-image: url("htttp://wwww.export.gov/build/fragments/fl_eg2_stylesheets/widgets/arrowhead.gif");list-style-type: none;font-family: Verdana;font-size:1.083em;font-weight: bold;}
+ul.sides{line-height:18px;display:block;margin:1px 1px 1px 22px;padding-left:0px;list-style-image: url("http://www.export.gov/build/fragments/fragments/fl_eg2_stylesheets/widgets/arrowhead.gif");list-style-type: none;font-family: Verdana;font-size:1.083em;font-weight: bold;}
 #frameleftcol img{float:left;margin:8px 4px 0px 9px;padding-bottom:12px;width:200px;}
 
 
@@ -179,7 +179,7 @@ ul.sides{line-height:18px;display:block;margin:1px 1px 1px 22px;padding-left:0px
 .rsideshead {color: #000000;font-family: Verdana;font-size: 1.083em;font-weight: bold;padding: 4px 3px 4px 5px;}
 .rsideshead p{color: #000000;font-family: Verdana;font-size: 1.083em;font-weight: bold;padding: 4px 3px 4px 5px;margin:0px;line-height:6px;}
 .rs{width:218px;padding-top: 0px;padding-bottom:-2px;margin:5px 0px 10px 0px;}
-ul.rsides{line-height:22px;display:block;margin:1px 8px 1px 22px;padding-left:0px;list-style-image: url("htttp://wwww.export.gov/build/fragments/fl_eg2_stylesheets/widgets/arrowhead.gif");list-style-type: none;font-family: Verdana;font-size:1.083em;font-weight: bold;}
+ul.rsides{line-height:22px;display:block;margin:1px 8px 1px 22px;padding-left:0px;list-style-image: url("http://www.export.gov/build/fragments/fragments/fl_eg2_stylesheets/widgets/arrowhead.gif");list-style-type: none;font-family: Verdana;font-size:1.083em;font-weight: bold;}
 #framerightcol img{float:left;margin:8px 4px 0px 9px;padding-bottom:12px;width:200px;}
 
 
@@ -205,8 +205,8 @@ ul.rsides{line-height:22px;display:block;margin:1px 8px 1px 22px;padding-left:0p
 
 
 /* ==== Center Ad Box =====*/
-#egwbox{width:971px; height:180px;margin:0 0 28px 5px;padding-bottom:30px;border: none;background-image:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/widgets/adbkg.jpg');background-repeat:no-repeat;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666666;}
-#egwbox ul{list-style:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/widgets/arrowhead.gif');}
+#egwbox{width:971px; height:180px;margin:0 0 28px 5px;padding-bottom:30px;border: none;background-image:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/widgets/adbkg.jpg');background-repeat:no-repeat;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666666;}
+#egwbox ul{list-style:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/widgets/arrowhead.gif');}
 #egwbox .egwh1{margin:50px 0 0 5px;color:#000000 ;font-family: Verdana;font-size: 24px;font-weight: bold; font-style:italic;text-align:left;}
 #egwbox .cbsep{float:left; display:inline; position: relative;}
 #egwbox .egwb1{width:444px;float:left; display:inline; position: relative;}
@@ -225,7 +225,7 @@ ul.rsides{line-height:22px;display:block;margin:1px 8px 1px 22px;padding-left:0p
 #egwbox .egsmlink{margin:0 0 00px 10px;float:left; display:inline; position: relative;}
 
 
-ul#smbutton1{background:url('htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton1.jpg') no-repeat;width:136px;height:32px;margin:0 0 10px 0;padding:0;float:left;z-index:50;}
+ul#smbutton1{background:url('http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton1.jpg') no-repeat;width:136px;height:32px;margin:0 0 10px 0;padding:0;float:left;z-index:50;}
 ul#smbutton1 li{margin-top:0;}
 #smbutton1 li.first-level span{position:absolute;left:-9999px;z-index:50;}
 #smbutton1 li,#smbutton1 li.first-level a{min-height:32px;display:block;}
@@ -234,11 +234,11 @@ li#sm-button1                div.first-level{width:32px;}
 li#sm-buttonb                div.first-level{width:20px;}
 li#sm-button2       a.first-level{width:32px;}
 li#sm-button3        a.first-level{width:32px;}
-li#sm-button1:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton1.jpg) -0px -32px no-repeat;}
-li#sm-button2:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton1.jpg) -52px -32px no-repeat;}
-li#sm-button3:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton1.jpg) -104px -32px no-repeat;}
+li#sm-button1:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton1.jpg) -0px -32px no-repeat;}
+li#sm-button2:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton1.jpg) -52px -32px no-repeat;}
+li#sm-button3:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton1.jpg) -104px -32px no-repeat;}
 
-ul#smbutton2{background:url('htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton2.jpg') no-repeat;width:136px;height:32px;margin:0 0 0 0;padding:0;float:left;z-index:50;}
+ul#smbutton2{background:url('http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton2.jpg') no-repeat;width:136px;height:32px;margin:0 0 0 0;padding:0;float:left;z-index:50;}
 ul#smbutton2 li{margin-top:0;}
 #smbutton2 li.first-level span{position:absolute;left:-9999px;z-index:50;}
 #smbutton2 li,#smbutton2 li.first-level a{min-height:32px;display:block;}
@@ -247,9 +247,9 @@ li#sm-button4                div.first-level{width:32px;}
 li#sm-buttonb                div.first-level{width:20px;}
 li#sm-button5       a.first-level{width:32px;}
 li#sm-button6        a.first-level{width:32px;}
-li#sm-button4:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton2.jpg) -0px -32px no-repeat;}
-li#sm-button5:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton2.jpg) -52px -32px no-repeat;}
-li#sm-button6:hover   a.first-level{background:url(htttp://wwww.export.gov/build/fragments/fl_eg2_centerwidgets/smbutton2.jpg) -104px -32px no-repeat;}
+li#sm-button4:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton2.jpg) -0px -32px no-repeat;}
+li#sm-button5:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton2.jpg) -52px -32px no-repeat;}
+li#sm-button6:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fragments/fl_eg2_centerwidgets/smbutton2.jpg) -104px -32px no-repeat;}
 
 /* ==== End Center Box =====*/
 
@@ -260,9 +260,9 @@ li#sm-button6:hover   a.first-level{background:url(htttp://wwww.export.gov/build
 .tabbox { position: relative; overflow: visible; clear: both; }
 .tabbox .tabPanel h3 { float: left; width: 146px; margin: 0; font-family: Verdana;font-size:14px; text-align:center;}
 .tabbox .first h3 { border-left-width: 1px; }
-.tabbox .tabPanel h3 a { font-weight:900;background-image:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/tabbox/bluetab.jpg');background-repeat:no-repeat;text-decoration: none; color: #FFF; display: block; height: 20px; padding: 8px 5px 5px 7px;  }
-.tabbox .tabPanel h3 a:hover { background-image:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/tabbox/bluetabroll.jpg');background-repeat:no-repeat;}
-.tabPanel.selected h3 a { background-image:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/tabbox/redtab.jpg');background-repeat:no-repeat; }
+.tabbox .tabPanel h3 a { font-weight:900;background-image:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/tabbox/bluetab.jpg');background-repeat:no-repeat;text-decoration: none; color: #FFF; display: block; height: 20px; padding: 8px 5px 5px 7px;  }
+.tabbox .tabPanel h3 a:hover { background-image:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/tabbox/bluetabroll.jpg');background-repeat:no-repeat;}
+.tabPanel.selected h3 a { background-image:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/tabbox/redtab.jpg');background-repeat:no-repeat; }
 .tabbox .tabContent { position: absolute; top: -9999px; left: -9999px; border: 3px solid #a63726; width: 670px; padding: 5px; }
 .tabbox .selected .tabContent { top: 30px; left: 0; }
 #list1 li{margin:0 0 0 -30px; padding: 0 0 0 5px;list-style: none;}
@@ -274,7 +274,7 @@ li#sm-button6:hover   a.first-level{background:url(htttp://wwww.export.gov/build
 /* === About Export.gov Box===  */
 #abouteg {margin:0 6px 20px 5px; padding:0 0 110px 0;display:inline; position: relative; height: 325px; width: 265px; float:left;z-index:10;}
 #abouteg .aboutbox{border: 3px solid #a63726;padding:10px 8px 10px 8px}
-#abouteg .aboutheader{font-family: Verdana;font-size:14px; text-align:center;font-weight:900;background-image:url('htttp://wwww.export.gov/build/fl_eg2_stylesheets/about/aboutbkg.jpg');background-repeat:no-repeat;text-decoration: none; color: #FFF; display: block; height: 20px; padding: 8px 5px 0px 5px; }
+#abouteg .aboutheader{font-family: Verdana;font-size:14px; text-align:center;font-weight:900;background-image:url('http://www.export.gov/build/fragments/fl_eg2_stylesheets/about/aboutbkg.jpg');background-repeat:no-repeat;text-decoration: none; color: #FFF; display: block; height: 20px; padding: 8px 5px 0px 5px; }
 #abouteg .abouttbl{margin:8px 0 0 0;width: 244px;}
 #abouteg .aboutbtnimg{padding:10px 0 4px 0;}
 /* === End About Export.gov Box===  */
