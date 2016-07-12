@@ -139,6 +139,9 @@ li#nav-trade:hover      a.first-level{background:url(../fl_eg2_stylesheets/heade
 li#nav-faq:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -735px -35px no-repeat;}
 li#nav-boards:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -796px -35px no-repeat;}
 li#nav-about:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -872px -35px no-repeat;}
+.ddleft{margin-left: -205px;}
+.ddinnerbig{padding: 0 120px 10px 0;}
+.ddinnerleft{padding: 0 60px 10px 0;}
 ul#topnav li.first-level ul{display:block;margin:0 0 12px 7px;float:left;padding:14px 0 14px 0;}
 ul#topnav li.first-level ul{width:220px;}
 ul#topnav li.first-level ul li{margin:7px 0 7px 0;padding:0 0px 0 0;width:350px;min-height:12px;float:left;}
@@ -151,9 +154,6 @@ ul#issues-landing-entry-list{float:left;width:142px;}
 #issues-landing-links ul#issues-landing-entry-list li{width:139px;padding:3px;}
 ul#topnav li:hover div.topnav-dd-outer{left:auto;}
 div.topnav-dd-inner{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/bg-nav-right-edge-trans2.png) no-repeat right bottom;margin-left:17px;margin-bottom:-5px;padding:0 0 10px 0;}
-.ddleft{margin-left: -205px;}
-.ddinnerbig{padding: 0 120px 10px 0;}
-.ddinnerleft{padding: 0 60px 10px 0;}
 .clear{clear:both;}
 .clearfix:after{clear:both;content:".";display:block;height:0;line-height:0;visibility:hidden;}
 .clearfix{display:inline-block;}
