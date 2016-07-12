@@ -151,6 +151,9 @@ ul#issues-landing-entry-list{float:left;width:142px;}
 #issues-landing-links ul#issues-landing-entry-list li{width:139px;padding:3px;}
 ul#topnav li:hover div.topnav-dd-outer{left:auto;}
 div.topnav-dd-inner{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/bg-nav-right-edge-trans2.png) no-repeat right bottom;margin-left:17px;margin-bottom:-5px;padding:0 0 10px 0;}
+.ddleft{margin-left: -205px;}
+.ddinnerbig{padding: 0 120px 10px 0;}
+.ddinnerleft{padding: 0 60px 10px 0;}
 .clear{clear:both;}
 .clearfix:after{clear:both;content:".";display:block;height:0;line-height:0;visibility:hidden;}
 .clearfix{display:inline-block;}
