@@ -119,7 +119,7 @@ img {border: none;}
 /*new top nav menu links */
 #top-nav-wrapper{margin-top:35px;}
 ul#topnav{background:url('/fl_eg2_stylesheets/header/topnav2.jpg') no-repeat;width:971px;height:49px;margin:0px 0px 0 11px;padding:0;float:left;z-index:50;}
-ul#topnav li{margin-top:0;}
+ul#topnav li{margin-top:0;} 
 #topnav li.first-level span{position:absolute;left:-9999px;z-index:50;}
 #topnav li,#topnav li.first-level a{min-height:35px;display:block;}
 #topnav li{float:left;list-style:none;display:inline;padding:0;}
