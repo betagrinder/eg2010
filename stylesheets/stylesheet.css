@@ -134,11 +134,11 @@ li#nav-about             a.first-level{width: 99px;}
 li#nav-how:hover   a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -0px -35px no-repeat;}
 li#nav-custom:hover   a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -142px -35px no-repeat;}
 li#nav-market:hover  a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -331px -35px no-repeat;}
-li#nav-events:hover         a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg) -513px -35px no-repeat;}
+li#nav-events:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -513px -35px no-repeat;}
 li#nav-trade:hover      a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg)  -587px -35px no-repeat;}
 li#nav-faq:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -735px -35px no-repeat;}
 li#nav-boards:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -796px -35px no-repeat;}
-li#nav-how:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -971px -35px no-repeat;}
+li#nav-about:hover         a.first-level{background:url(../fl_eg2_stylesheets/header/topnav.jpg) -971px -35px no-repeat;}
 ul#topnav li.first-level ul{display:block;margin:0 0 12px 7px;float:left;padding:14px 0 14px 0;}
 ul#topnav li.first-level ul{width:220px;}
 ul#topnav li.first-level ul li{margin:7px 0 7px 0;padding:0 0px 0 0;width:350px;min-height:12px;float:left;}
