@@ -130,13 +130,13 @@ li#nav-locations               a.first-level{width:169px;}
 li#nav-faq           a.first-level{width:109px;}
 li#nav-blog              a.first-level{width: 122px;}
 li#nav-social              a.first-level{width: 155px;}
-li#nav-home:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -0px -35px no-repeat;}
-li#nav-opportunities:hover   a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -56px -35px no-repeat;}
-li#nav-solutions:hover  a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -254px -35px no-repeat;}
-li#nav-locations:hover         a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -416px -35px no-repeat;}
-li#nav-faq:hover      a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg)  -585px -35px no-repeat;}
-li#nav-blog:hover         a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -694px -35px no-repeat;}
-li#nav-social:hover         a.first-level{background:url(http://www.export.gov/build/fragments/fl_eg2_stylesheets/header/topnav.jpg) -816px -35px no-repeat;}
+li#nav-home:hover   a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg) -0px -35px no-repeat;}
+li#nav-opportunities:hover   a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg) -56px -35px no-repeat;}
+li#nav-solutions:hover  a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg) -254px -35px no-repeat;}
+li#nav-locations:hover         a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg) -416px -35px no-repeat;}
+li#nav-faq:hover      a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg)  -585px -35px no-repeat;}
+li#nav-blog:hover         a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg) -694px -35px no-repeat;}
+li#nav-social:hover         a.first-level{background:url(/fl_eg2_stylesheets/header/topnav.jpg) -816px -35px no-repeat;}
 ul#topnav li.first-level ul{display:block;margin:0 0 12px 7px;float:left;padding:14px 0 14px 0;}
 ul#topnav li.first-level ul{width:220px;}
 ul#topnav li.first-level ul li{margin:7px 0 7px 0;padding:0 0px 0 0;width:350px;min-height:12px;float:left;}
